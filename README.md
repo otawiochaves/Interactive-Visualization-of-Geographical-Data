@@ -8,7 +8,7 @@ The tutorial is divided into four main sections, each exploring a specific datas
 
 1. **Internal Use Around the World and Continents**: This section explores global internet usage data, presenting heat maps and bubble maps to visualize internet penetration across different countries and continents. By analyzing these visualizations, we can gain insights into internet accessibility and identify regions with high or low internet usage. As an example, consider the following:
 
-![Descrição da imagem](Internet%20Usage%20project%20graphics/Worldwide%20Internet%20Usage%20(%25%20of%20Population)%20Over%20Years.png)
+![Image Description](Internet%20Usage%20project%20graphics/Internet%20Usage%20-%202016.png)
 
 ![Image Description](Internet%20Usage%20project%20graphics/Internet%20usage%20in%20Europe%20(percentage%20of%20population)%20-%202016.png)
 
